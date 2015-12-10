@@ -3,3 +3,4 @@
 /MplabTest.X/dist/default/
 /Mplab/
 !MplabTest.X/dist/default/production/*.hex
+*~
