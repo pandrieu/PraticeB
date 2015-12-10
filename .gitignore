@@ -2,3 +2,4 @@
 /MplabTest.X/build/default/
 /MplabTest.X/dist/default/
 /Mplab/
+!MplabTest.X/dist/default/production/*.hex
